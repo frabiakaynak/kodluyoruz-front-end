@@ -1,0 +1,10 @@
+  .navbar-ul {
+list-style-type: none;
+list-style:none;
+ background-color:rgba(232,239,25,.233);
+  text-align:center
+      }
+      .navbar-li {
+display:inline; 
+margin-right:50px
+      }
