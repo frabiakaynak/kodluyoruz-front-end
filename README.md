@@ -13,4 +13,4 @@ Bu proje [Kodluyoruz](https://academy.patika.dev/paths/baslangic-seviye-frontend
 
 ## 📷 Ekran Görüntüsü
 
-![Proje Görseli](./ss.png)
+![Proje Görseli](./önizleme.png)
