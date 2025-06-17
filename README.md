@@ -10,7 +10,9 @@ Bu proje [Kodluyoruz](https://academy.patika.dev/paths/baslangic-seviye-frontend
 ## 🌐 Canlı Demo
 
 -Anasayfa: [https://frabiakaynak.github.io/kodluyoruz-front-end/](https://frabiakaynak.github.io/kodluyoruz-front-end/anasayfa.html)
+
 -Hakkımızda: [https://frabiakaynak.github.io/kodluyoruz-front-end/](https://frabiakaynak.github.io/kodluyoruz-front-end/about-us.html)
+
 -İletişim: [https://frabiakaynak.github.io/kodluyoruz-front-end/](https://frabiakaynak.github.io/kodluyoruz-front-end/contact.html)
 
 ## 📷 Ekran Görüntüsü
